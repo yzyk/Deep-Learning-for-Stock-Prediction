@@ -1,0 +1,1 @@
+{"ongoing_trials": {"tuner0": "4ad049df576c5c0fcfbf0923333bd632"}, "hyperparameters": {"space": [{"class_name": "Choice", "config": {"name": "units", "default": 8, "conditions": [], "values": [8, 16], "ordered": true}}], "values": {"units": 8}}, "seed": 1179, "seed_state": 1180, "tried_so_far": ["b6ecde9d78aacf9763dfca0c1c75fa9d"]}
