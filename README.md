@@ -1,3 +1,5 @@
+**This is a Full Credit Final Project Attempt for FRE-7773.**
+
 # Final project: Stock Prediction
 
 Given the recent stock market history, you will predict the return for ticker AAPL for the day ahead.
